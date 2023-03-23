@@ -1,2 +1,2 @@
 # Dressed State
-- [dressed_state.ipynb](dressed_state.ipynb)
+- [Click to launch](dressed_state.ipynb)
