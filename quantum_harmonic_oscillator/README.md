@@ -1,2 +1,2 @@
 # Quantum Harmonic Oscillator (QHO)
-quantum_harmonic_oscillator.ipynb
+- [Click to launch](quantum_harmonic_oscillator.ipynb)
