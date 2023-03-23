@@ -1,2 +1,2 @@
-# test quantum fft/ifft
-quantum_fft_ifft.ipynb
+# Quantum FFT/iFFT
+- [Click to launch](quantum_fft_ifft.ipynb)
